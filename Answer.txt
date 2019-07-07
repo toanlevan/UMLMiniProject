@@ -1,0 +1,6 @@
+UML answers:
+A: balance += amount;
+B: super(idNumber,balance);
+C: super.decreaseBalance(amount);
+D: super(idNumber, startBal, chkCharge);
+E:  currentBalance()>minBalance
